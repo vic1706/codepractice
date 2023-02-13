@@ -1,0 +1,42 @@
+@font-face{
+    font-family: "Outfit";
+    src: url(fuentes/Outfit-VariableFont_wght.ttf);
+}
+
+*{
+    background: #D5E1EF;
+}
+#header{
+    height:166px
+}
+#frases{
+    text-align: center;
+    font-family: "Outfit";
+    font-size: 19px;
+    background-color:#FFFFFF;
+    width: 348px;
+    margin: 0px auto;
+    color: #141E31;
+    height: 476px;
+    font-weight: 700;
+    border-radius: 15px;
+    box-shadow: 0px 0px 1px black;
+}
+#frases img{
+    height: 310px;
+    width: 308px;
+    border-radius: 15px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+#parrafo{
+    font-size: 15px;
+    background-color: #FFFFFF;
+    color: #7F8490;
+    margin-top: 5px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 200px;
+}
